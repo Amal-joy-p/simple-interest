@@ -61,7 +61,7 @@ function App() {
   
   return (
     <>
-      <div className='bg-dark d-flex justify-content-center align-item-center' style={{width:"100%",height:"110vh"}}>
+      <div className='bg-dark d-flex justify-content-center align-item-center' style={{width:"100%",height:"100vh"}}>
         <div className='bg-warning p-5 rounded-3 m-5'>
           <h1 className='text-center'>Simple Interest</h1>
           <h5>Calculate your simple interest easily</h5>
